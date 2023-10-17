@@ -1,6 +1,6 @@
 ###############################################
 # TITLE: Velez's Dictionary - counting entries 
-# DESCRIPTION: Counts the numbers of entries for each PoS categories in the Velez's dictionary.
+# DESCRIPTION: Counts the numbers of lentries for each PoS categories in the Velez's dictionary.
 ###############################################
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
